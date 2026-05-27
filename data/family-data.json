@@ -1,5 +1,3 @@
-Total output lines: 5153
-
 {
   "schemaVersion": 1,
   "title": "Misri Family Tree",
@@ -1025,7 +1023,3258 @@ Total output lines: 5153
       "sourceImages": [],
       "details": {},
       "photo": "",
-      "gallery"…15877 tokens truncated…
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0045": {
+      "id": "p0045",
+      "name": "Ashok Mam",
+      "gender": "",
+      "confidence": "high",
+      "aka": [],
+      "parents": [],
+      "children": [],
+      "spouses": [
+        "p0044"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {
+        "context": "Spouse of Jyotsna Mam"
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0046": {
+      "id": "p0046",
+      "name": "Choti",
+      "gender": "F",
+      "confidence": "medium",
+      "aka": [],
+      "parents": [
+        "p0044"
+      ],
+      "children": [],
+      "spouses": [],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0047": {
+      "id": "p0047",
+      "name": "Chutki",
+      "gender": "F",
+      "confidence": "medium",
+      "aka": [],
+      "parents": [
+        "p0044"
+      ],
+      "children": [],
+      "spouses": [],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0048": {
+      "id": "p0048",
+      "name": "Rakesh",
+      "gender": "M",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0039"
+      ],
+      "children": [
+        "p0050",
+        "p0051"
+      ],
+      "spouses": [
+        "p0049"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0049": {
+      "id": "p0049",
+      "name": "Nimmi",
+      "gender": "",
+      "confidence": "high",
+      "aka": [],
+      "parents": [],
+      "children": [],
+      "spouses": [
+        "p0048"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {
+        "D/O": "Niranjan Nath Razdan",
+        "context": "Spouse of Rakesh"
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0050": {
+      "id": "p0050",
+      "name": "Savita",
+      "gender": "F",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0048"
+      ],
+      "children": [],
+      "spouses": [],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0051": {
+      "id": "p0051",
+      "name": "Gaurav",
+      "gender": "M",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0048"
+      ],
+      "children": [],
+      "spouses": [],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0052": {
+      "id": "p0052",
+      "name": "Shiban Lal",
+      "gender": "M",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0039"
+      ],
+      "children": [],
+      "spouses": [],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0053": {
+      "id": "p0053",
+      "name": "Susheela",
+      "gender": "F",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0039"
+      ],
+      "children": [
+        "p0054",
+        "p0058"
+      ],
+      "spouses": [],
+      "notes": [],
+      "sourceImages": [],
+      "details": {
+        "D/O": "Shiv Nath Bakshi"
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0054": {
+      "id": "p0054",
+      "name": "Arun",
+      "gender": "M",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0053"
+      ],
+      "children": [
+        "p0056",
+        "p0057"
+      ],
+      "spouses": [
+        "p0055"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0055": {
+      "id": "p0055",
+      "name": "Anisha",
+      "gender": "",
+      "confidence": "medium",
+      "aka": [],
+      "parents": [],
+      "children": [],
+      "spouses": [
+        "p0054"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {
+        "D/O": "S. N. Razdan",
+        "context": "Spouse of Arun"
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0056": {
+      "id": "p0056",
+      "name": "Ayushi",
+      "gender": "F",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0054"
+      ],
+      "children": [],
+      "spouses": [],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0057": {
+      "id": "p0057",
+      "name": "Archita",
+      "gender": "F",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0054"
+      ],
+      "children": [],
+      "spouses": [],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0058": {
+      "id": "p0058",
+      "name": "Puripriya",
+      "gender": "F",
+      "confidence": "low",
+      "aka": [],
+      "parents": [
+        "p0053"
+      ],
+      "children": [],
+      "spouses": [
+        "p0059"
+      ],
+      "notes": [
+        "Printed under Susheela; exact connection is visible but the name spelling is uncertain."
+      ],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0059": {
+      "id": "p0059",
+      "name": "Bala",
+      "gender": "",
+      "confidence": "medium",
+      "aka": [],
+      "parents": [],
+      "children": [],
+      "spouses": [
+        "p0058"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {
+        "S/O": "V. Gopalakrishnan",
+        "context": "Spouse of Puripriya"
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0060": {
+      "id": "p0060",
+      "name": "Phoola",
+      "gender": "F",
+      "confidence": "medium",
+      "aka": [],
+      "parents": [
+        "p0039"
+      ],
+      "children": [
+        "p0061",
+        "p0062"
+      ],
+      "spouses": [],
+      "notes": [],
+      "sourceImages": [],
+      "details": {
+        "D/O": "Jia Lal Khebri"
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0061": {
+      "id": "p0061",
+      "name": "Anupama",
+      "gender": "F",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0060"
+      ],
+      "children": [],
+      "spouses": [],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0062": {
+      "id": "p0062",
+      "name": "Ashish",
+      "gender": "M",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0060"
+      ],
+      "children": [],
+      "spouses": [],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0063": {
+      "id": "p0063",
+      "name": "Shamboo Nath",
+      "gender": "M",
+      "confidence": "medium",
+      "aka": [],
+      "parents": [
+        "p0010",
+        "p0034"
+      ],
+      "children": [],
+      "spouses": [],
+      "notes": [
+        "43742 associates him with Jawahar Lal, but the exact spouse or descendant connection is crossed/unclear."
+      ],
+      "sourceImages": [],
+      "details": {
+        "relationship_note": "handwritten note says adopted son"
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0064": {
+      "id": "p0064",
+      "name": "Gridhari Lal",
+      "gender": "M",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0010",
+        "p0034"
+      ],
+      "children": [],
+      "spouses": [],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0065": {
+      "id": "p0065",
+      "name": "Kamla Kaul",
+      "gender": "F",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0010",
+        "p0034"
+      ],
+      "children": [
+        "p0067",
+        "p0071",
+        "p0075",
+        "p0079"
+      ],
+      "spouses": [
+        "p0066"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0066": {
+      "id": "p0066",
+      "name": "Jagar Nath Kaul",
+      "gender": "",
+      "confidence": "high",
+      "aka": [],
+      "parents": [],
+      "children": [],
+      "spouses": [
+        "p0065"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {
+        "context": "Spouse of Kamla Kaul"
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0067": {
+      "id": "p0067",
+      "name": "Jaya Ganju",
+      "gender": "F",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0065"
+      ],
+      "children": [
+        "p0069",
+        "p0070"
+      ],
+      "spouses": [
+        "p0068"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0068": {
+      "id": "p0068",
+      "name": "Hira Lal Ganju",
+      "gender": "",
+      "confidence": "high",
+      "aka": [],
+      "parents": [],
+      "children": [],
+      "spouses": [
+        "p0067"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {
+        "context": "Spouse of Jaya Ganju"
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0069": {
+      "id": "p0069",
+      "name": "Anju",
+      "gender": "F",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0067"
+      ],
+      "children": [],
+      "spouses": [],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0070": {
+      "id": "p0070",
+      "name": "Anil",
+      "gender": "M",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0067"
+      ],
+      "children": [],
+      "spouses": [],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0071": {
+      "id": "p0071",
+      "name": "Phoola Kual",
+      "gender": "F",
+      "confidence": "medium",
+      "aka": [],
+      "parents": [
+        "p0065"
+      ],
+      "children": [
+        "p0073",
+        "p0074"
+      ],
+      "spouses": [
+        "p0072"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0072": {
+      "id": "p0072",
+      "name": "unknown",
+      "gender": "",
+      "confidence": "low",
+      "aka": [],
+      "parents": [],
+      "children": [],
+      "spouses": [
+        "p0071"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {
+        "context": "Spouse of Phoola Kual"
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0073": {
+      "id": "p0073",
+      "name": "Dimpy",
+      "gender": "F",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0071"
+      ],
+      "children": [],
+      "spouses": [],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0074": {
+      "id": "p0074",
+      "name": "Bunty",
+      "gender": "F",
+      "confidence": "medium",
+      "aka": [],
+      "parents": [
+        "p0071"
+      ],
+      "children": [],
+      "spouses": [],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0075": {
+      "id": "p0075",
+      "name": "Maharaj Krishan",
+      "gender": "M",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0065"
+      ],
+      "children": [
+        "p0077",
+        "p0078"
+      ],
+      "spouses": [
+        "p0076"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0076": {
+      "id": "p0076",
+      "name": "Sushma",
+      "gender": "",
+      "confidence": "high",
+      "aka": [],
+      "parents": [],
+      "children": [],
+      "spouses": [
+        "p0075"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {
+        "context": "Spouse of Maharaj Krishan"
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0077": {
+      "id": "p0077",
+      "name": "Naveen",
+      "gender": "M",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0075"
+      ],
+      "children": [],
+      "spouses": [],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0078": {
+      "id": "p0078",
+      "name": "Monika",
+      "gender": "F",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0075"
+      ],
+      "children": [],
+      "spouses": [],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0079": {
+      "id": "p0079",
+      "name": "Upinder",
+      "gender": "M",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0065"
+      ],
+      "children": [
+        "p0081",
+        "p0082"
+      ],
+      "spouses": [
+        "p0080"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0080": {
+      "id": "p0080",
+      "name": "Veena",
+      "gender": "",
+      "confidence": "high",
+      "aka": [],
+      "parents": [],
+      "children": [],
+      "spouses": [
+        "p0079"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {
+        "context": "Spouse of Upinder"
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0081": {
+      "id": "p0081",
+      "name": "Meenu",
+      "gender": "F",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0079"
+      ],
+      "children": [],
+      "spouses": [],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0082": {
+      "id": "p0082",
+      "name": "Anju",
+      "gender": "F",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0079"
+      ],
+      "children": [],
+      "spouses": [],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0083": {
+      "id": "p0083",
+      "name": "Padmini Ganju",
+      "gender": "F",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0010",
+        "p0034"
+      ],
+      "children": [
+        "p0085",
+        "p0090",
+        "p0094",
+        "p0098"
+      ],
+      "spouses": [
+        "p0084"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0084": {
+      "id": "p0084",
+      "name": "Shyam Lal Ganju",
+      "gender": "",
+      "confidence": "high",
+      "aka": [],
+      "parents": [],
+      "children": [],
+      "spouses": [
+        "p0083"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {
+        "context": "Spouse of Padmini Ganju"
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0085": {
+      "id": "p0085",
+      "name": "Sanjay",
+      "gender": "M",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0083"
+      ],
+      "children": [
+        "p0087",
+        "p0088",
+        "p0089"
+      ],
+      "spouses": [
+        "p0086"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0086": {
+      "id": "p0086",
+      "name": "Shammi",
+      "gender": "",
+      "confidence": "medium",
+      "aka": [],
+      "parents": [],
+      "children": [],
+      "spouses": [
+        "p0085"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {
+        "D/O": "Kakkar's",
+        "context": "Spouse of Sanjay"
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0087": {
+      "id": "p0087",
+      "name": "Shivan",
+      "gender": "F",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0085"
+      ],
+      "children": [],
+      "spouses": [],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0088": {
+      "id": "p0088",
+      "name": "Anuj",
+      "gender": "M",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0085"
+      ],
+      "children": [],
+      "spouses": [],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0089": {
+      "id": "p0089",
+      "name": "Sonali",
+      "gender": "F",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0085"
+      ],
+      "children": [],
+      "spouses": [],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0090": {
+      "id": "p0090",
+      "name": "Reeta Kaul",
+      "gender": "F",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0083"
+      ],
+      "children": [
+        "p0092",
+        "p0093"
+      ],
+      "spouses": [
+        "p0091"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0091": {
+      "id": "p0091",
+      "name": "Susheel Kaul",
+      "gender": "",
+      "confidence": "high",
+      "aka": [],
+      "parents": [],
+      "children": [],
+      "spouses": [
+        "p0090"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {
+        "context": "Spouse of Reeta Kaul"
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0092": {
+      "id": "p0092",
+      "name": "Jiggi",
+      "gender": "F",
+      "confidence": "medium",
+      "aka": [],
+      "parents": [
+        "p0090"
+      ],
+      "children": [],
+      "spouses": [],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0093": {
+      "id": "p0093",
+      "name": "Rinku",
+      "gender": "M",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0090"
+      ],
+      "children": [],
+      "spouses": [],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0094": {
+      "id": "p0094",
+      "name": "Anita Teng",
+      "gender": "F",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0083"
+      ],
+      "children": [
+        "p0096",
+        "p0097"
+      ],
+      "spouses": [
+        "p0095"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0095": {
+      "id": "p0095",
+      "name": "Surinder Teng",
+      "gender": "",
+      "confidence": "high",
+      "aka": [],
+      "parents": [],
+      "children": [],
+      "spouses": [
+        "p0094"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {
+        "context": "Spouse of Anita Teng"
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0096": {
+      "id": "p0096",
+      "name": "Ashoo",
+      "gender": "M",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0094"
+      ],
+      "children": [],
+      "spouses": [],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0097": {
+      "id": "p0097",
+      "name": "Ruchi",
+      "gender": "F",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0094"
+      ],
+      "children": [],
+      "spouses": [],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0098": {
+      "id": "p0098",
+      "name": "Veena Matto",
+      "gender": "F",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0083"
+      ],
+      "children": [
+        "p0100"
+      ],
+      "spouses": [
+        "p0099"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0099": {
+      "id": "p0099",
+      "name": "Munju ji Matto",
+      "gender": "",
+      "confidence": "medium",
+      "aka": [],
+      "parents": [],
+      "children": [],
+      "spouses": [
+        "p0098"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {
+        "context": "Spouse of Veena Matto"
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0100": {
+      "id": "p0100",
+      "name": "Baba",
+      "gender": "M",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0098"
+      ],
+      "children": [],
+      "spouses": [],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0101": {
+      "id": "p0101",
+      "name": "Nichi",
+      "gender": "F",
+      "confidence": "medium",
+      "aka": [],
+      "parents": [
+        "p0010",
+        "p0034"
+      ],
+      "children": [
+        "p0103"
+      ],
+      "spouses": [
+        "p0102"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0102": {
+      "id": "p0102",
+      "name": "Amar Nath Raina",
+      "gender": "",
+      "confidence": "medium",
+      "aka": [
+        "Mijoo"
+      ],
+      "parents": [],
+      "children": [],
+      "spouses": [
+        "p0101"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {
+        "context": "Spouse of Nichi"
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0103": {
+      "id": "p0103",
+      "name": "Nancy Pandita",
+      "gender": "F",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0101"
+      ],
+      "children": [
+        "p0105",
+        "p0106"
+      ],
+      "spouses": [
+        "p0104"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0104": {
+      "id": "p0104",
+      "name": "Tej Krishen Pandita",
+      "gender": "",
+      "confidence": "high",
+      "aka": [],
+      "parents": [],
+      "children": [],
+      "spouses": [
+        "p0103"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {
+        "context": "Spouse of Nancy Pandita"
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0105": {
+      "id": "p0105",
+      "name": "Anil",
+      "gender": "M",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0103"
+      ],
+      "children": [],
+      "spouses": [],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0106": {
+      "id": "p0106",
+      "name": "Atul",
+      "gender": "M",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0103"
+      ],
+      "children": [],
+      "spouses": [],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0107": {
+      "id": "p0107",
+      "name": "Jagar Nath Misri",
+      "gender": "M",
+      "confidence": "high",
+      "aka": [
+        "Tath Sahib"
+      ],
+      "parents": [
+        "p0001"
+      ],
+      "children": [
+        "p0109",
+        "p0113",
+        "p0117",
+        "p0125",
+        "p0128"
+      ],
+      "spouses": [
+        "p0108"
+      ],
+      "notes": [],
+      "sourceImages": [
+        "43740.jpg",
+        "43744.jpg",
+        "43745.jpg"
+      ],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0108": {
+      "id": "p0108",
+      "name": "Radha Mali",
+      "gender": "",
+      "confidence": "high",
+      "aka": [],
+      "parents": [],
+      "children": [],
+      "spouses": [
+        "p0107"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {
+        "D/O": "Ramjoo Kachroo",
+        "context": "Spouse of Jagar Nath Misri"
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0109": {
+      "id": "p0109",
+      "name": "GuruBatni",
+      "gender": "F",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0107"
+      ],
+      "children": [
+        "p0111"
+      ],
+      "spouses": [
+        "p0110"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {
+        "additional_notes": [
+          "Sheila ji / Bibi Lala and Dawarka Nath Lal are written nearby. Their exact placement under this branch is unclear."
+        ]
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0110": {
+      "id": "p0110",
+      "name": "Shambu Nath Koul",
+      "gender": "",
+      "confidence": "high",
+      "aka": [],
+      "parents": [],
+      "children": [],
+      "spouses": [
+        "p0109"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {
+        "context": "Spouse of GuruBatni"
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0111": {
+      "id": "p0111",
+      "name": "Sonabatni Kachru",
+      "gender": "F",
+      "confidence": "medium",
+      "aka": [],
+      "parents": [
+        "p0109"
+      ],
+      "children": [],
+      "spouses": [
+        "p0112"
+      ],
+      "notes": [
+        "Spouse label is handwritten and partly crossed."
+      ],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0112": {
+      "id": "p0112",
+      "name": "Bal Krishen Kaul",
+      "gender": "",
+      "confidence": "low",
+      "aka": [],
+      "parents": [],
+      "children": [],
+      "spouses": [
+        "p0111"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {
+        "context": "Spouse of Sonabatni Kachru"
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0113": {
+      "id": "p0113",
+      "name": "Divki Sazwal",
+      "gender": "F",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0107"
+      ],
+      "children": [
+        "p0115",
+        "p0116"
+      ],
+      "spouses": [
+        "p0114"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0114": {
+      "id": "p0114",
+      "name": "Dina Nath Sazawal",
+      "gender": "",
+      "confidence": "high",
+      "aka": [],
+      "parents": [],
+      "children": [],
+      "spouses": [
+        "p0113"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {
+        "context": "Spouse of Divki Sazwal"
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0115": {
+      "id": "p0115",
+      "name": "Jawahar Lal",
+      "gender": "M",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0113"
+      ],
+      "children": [],
+      "spouses": [],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0116": {
+      "id": "p0116",
+      "name": "unnamed daughters",
+      "gender": "F",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0113"
+      ],
+      "children": [],
+      "spouses": [],
+      "notes": [],
+      "sourceImages": [],
+      "details": {
+        "count": 3
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0117": {
+      "id": "p0117",
+      "name": "Shubawati Bamzai",
+      "gender": "F",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0107"
+      ],
+      "children": [
+        "p0119",
+        "p0120",
+        "p0121",
+        "p0122",
+        "p0123",
+        "p0124"
+      ],
+      "spouses": [
+        "p0118"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0118": {
+      "id": "p0118",
+      "name": "Prem Nath Bamzai",
+      "gender": "",
+      "confidence": "high",
+      "aka": [],
+      "parents": [],
+      "children": [],
+      "spouses": [
+        "p0117"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {
+        "context": "Spouse of Shubawati Bamzai"
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0119": {
+      "id": "p0119",
+      "name": "Mohan Lal",
+      "gender": "M",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0117"
+      ],
+      "children": [],
+      "spouses": [],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0120": {
+      "id": "p0120",
+      "name": "Brijlal",
+      "gender": "M",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0117"
+      ],
+      "children": [],
+      "spouses": [],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0121": {
+      "id": "p0121",
+      "name": "Ratan Lal",
+      "gender": "M",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0117"
+      ],
+      "children": [],
+      "spouses": [],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0122": {
+      "id": "p0122",
+      "name": "Pyari Lal",
+      "gender": "M",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0117"
+      ],
+      "children": [],
+      "spouses": [],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0123": {
+      "id": "p0123",
+      "name": "Omkar Nath",
+      "gender": "M",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0117"
+      ],
+      "children": [],
+      "spouses": [],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0124": {
+      "id": "p0124",
+      "name": "Dulari Kachru",
+      "gender": "F",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0117"
+      ],
+      "children": [],
+      "spouses": [],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0125": {
+      "id": "p0125",
+      "name": "Mugal Dedi Suproo",
+      "gender": "F",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0107"
+      ],
+      "children": [
+        "p0127"
+      ],
+      "spouses": [
+        "p0126"
+      ],
+      "notes": [
+        "Printed count looks like 2 daughters, handwritten correction marks 3 daughters."
+      ],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0126": {
+      "id": "p0126",
+      "name": "Janki Nath Saproo",
+      "gender": "",
+      "confidence": "high",
+      "aka": [],
+      "parents": [],
+      "children": [],
+      "spouses": [
+        "p0125"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {
+        "context": "Spouse of Mugal Dedi Suproo"
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0127": {
+      "id": "p0127",
+      "name": "unnamed daughters",
+      "gender": "F",
+      "confidence": "medium",
+      "aka": [],
+      "parents": [
+        "p0125"
+      ],
+      "children": [],
+      "spouses": [],
+      "notes": [],
+      "sourceImages": [],
+      "details": {
+        "count": 3
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0128": {
+      "id": "p0128",
+      "name": "Prabha Devi Dhar",
+      "gender": "F",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0107"
+      ],
+      "children": [],
+      "spouses": [
+        "p0129"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {
+        "children_count": {
+          "sons": 3,
+          "daughters": 3
+        }
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0129": {
+      "id": "p0129",
+      "name": "Kanya Lal Dhar",
+      "gender": "",
+      "confidence": "high",
+      "aka": [],
+      "parents": [],
+      "children": [],
+      "spouses": [
+        "p0128"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {
+        "context": "Spouse of Prabha Devi Dhar"
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0130": {
+      "id": "p0130",
+      "name": "Gobind Joo Misri",
+      "gender": "M",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0001"
+      ],
+      "children": [
+        "p0132",
+        "p0137"
+      ],
+      "spouses": [
+        "p0131"
+      ],
+      "notes": [
+        "43740 says adopted to Vasunav or a similar name. 43744/43745 give the detailed branch."
+      ],
+      "sourceImages": [
+        "43740.jpg",
+        "43744.jpg",
+        "43745.jpg"
+      ],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0131": {
+      "id": "p0131",
+      "name": "Soup Kuji",
+      "gender": "",
+      "confidence": "medium",
+      "aka": [],
+      "parents": [],
+      "children": [],
+      "spouses": [
+        "p0130"
+      ],
+      "notes": [
+        "Handwritten note may say Kreani."
+      ],
+      "sourceImages": [],
+      "details": {
+        "D/O": "Neel Kanth Dhar",
+        "context": "Spouse of Gobind Joo Misri"
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0132": {
+      "id": "p0132",
+      "name": "Zala ji Lala",
+      "gender": "F",
+      "confidence": "medium",
+      "aka": [],
+      "parents": [
+        "p0130"
+      ],
+      "children": [
+        "p0134"
+      ],
+      "spouses": [
+        "p0133"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0133": {
+      "id": "p0133",
+      "name": "Chunni Lal Lala",
+      "gender": "",
+      "confidence": "high",
+      "aka": [],
+      "parents": [],
+      "children": [],
+      "spouses": [
+        "p0132"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {
+        "context": "Spouse of Zala ji Lala"
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0134": {
+      "id": "p0134",
+      "name": "Tosha Teng",
+      "gender": "F",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0132"
+      ],
+      "children": [
+        "p0136"
+      ],
+      "spouses": [
+        "p0135"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0135": {
+      "id": "p0135",
+      "name": "Tribhuwan Teng",
+      "gender": "",
+      "confidence": "high",
+      "aka": [],
+      "parents": [],
+      "children": [],
+      "spouses": [
+        "p0134"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {
+        "context": "Spouse of Tosha Teng"
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0136": {
+      "id": "p0136",
+      "name": "unnamed daughters",
+      "gender": "F",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0134"
+      ],
+      "children": [],
+      "spouses": [],
+      "notes": [],
+      "sourceImages": [],
+      "details": {
+        "count": 3
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0137": {
+      "id": "p0137",
+      "name": "Triloki Nath",
+      "gender": "M",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0130"
+      ],
+      "children": [
+        "p0139",
+        "p0143",
+        "p0145"
+      ],
+      "spouses": [
+        "p0138"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0138": {
+      "id": "p0138",
+      "name": "Kamla",
+      "gender": "",
+      "confidence": "high",
+      "aka": [],
+      "parents": [],
+      "children": [],
+      "spouses": [
+        "p0137"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {
+        "D/O": "Kashi Nath Kachroo",
+        "context": "Spouse of Triloki Nath"
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0139": {
+      "id": "p0139",
+      "name": "Vinay",
+      "gender": "M",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0137"
+      ],
+      "children": [
+        "p0141",
+        "p0142"
+      ],
+      "spouses": [
+        "p0140"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0140": {
+      "id": "p0140",
+      "name": "Veena ji",
+      "gender": "",
+      "confidence": "high",
+      "aka": [],
+      "parents": [],
+      "children": [],
+      "spouses": [
+        "p0139"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {
+        "D/O": "M. L. Wali",
+        "context": "Spouse of Vinay"
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0141": {
+      "id": "p0141",
+      "name": "Vasundra",
+      "gender": "F",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0139"
+      ],
+      "children": [],
+      "spouses": [],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0142": {
+      "id": "p0142",
+      "name": "Vandana",
+      "gender": "F",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0139"
+      ],
+      "children": [],
+      "spouses": [],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0143": {
+      "id": "p0143",
+      "name": "Nancy",
+      "gender": "F",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0137"
+      ],
+      "children": [],
+      "spouses": [
+        "p0144"
+      ],
+      "notes": [
+        "Spouse surname and the exact child names are handwritten and unclear."
+      ],
+      "sourceImages": [],
+      "details": {
+        "children_count": {
+          "sons": 1,
+          "daughters": 1
+        }
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0144": {
+      "id": "p0144",
+      "name": "Dr. Opender",
+      "gender": "",
+      "confidence": "low",
+      "aka": [],
+      "parents": [],
+      "children": [],
+      "spouses": [
+        "p0143"
+      ],
+      "notes": [
+        "Surname unreadable"
+      ],
+      "sourceImages": [],
+      "details": {
+        "context": "Spouse of Nancy"
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0145": {
+      "id": "p0145",
+      "name": "Lalit",
+      "gender": "M",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0137"
+      ],
+      "children": [
+        "p0147"
+      ],
+      "spouses": [
+        "p0146"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0146": {
+      "id": "p0146",
+      "name": "Yogni",
+      "gender": "",
+      "confidence": "medium",
+      "aka": [],
+      "parents": [],
+      "children": [],
+      "spouses": [
+        "p0145"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {
+        "D/O": "Y. K. Bhan",
+        "context": "Spouse of Lalit"
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0147": {
+      "id": "p0147",
+      "name": "Vedhanth",
+      "gender": "M",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0145"
+      ],
+      "children": [],
+      "spouses": [],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0148": {
+      "id": "p0148",
+      "name": "Shyam Lal Misri",
+      "gender": "M",
+      "confidence": "high",
+      "aka": [
+        "Shayam Lal Misri"
+      ],
+      "parents": [
+        "p0001"
+      ],
+      "children": [
+        "p0151",
+        "p0153",
+        "p0154",
+        "p0160",
+        "p0171"
+      ],
+      "spouses": [
+        "p0149",
+        "p0150"
+      ],
+      "notes": [],
+      "sourceImages": [
+        "43740.jpg",
+        "43743.jpg"
+      ],
+      "details": {
+        "additional_handwritten_entries": [
+          {
+            "text": "Mukka or Mukta, Modushtali or similar, and Roma Moza are written near the left side of the Shyam Lal page.",
+            "confidence": "low",
+            "notes": "The parent line and spellings are not clear enough to encode as children."
+          }
+        ]
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0149": {
+      "id": "p0149",
+      "name": "Mogli",
+      "gender": "",
+      "confidence": "medium",
+      "aka": [
+        "Raj Rani"
+      ],
+      "parents": [],
+      "children": [],
+      "spouses": [
+        "p0148"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {
+        "D/O": "Reshi Sahib",
+        "marriage_order": 1,
+        "context": "Spouse of Shyam Lal Misri"
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0150": {
+      "id": "p0150",
+      "name": "Dhana",
+      "gender": "",
+      "confidence": "medium",
+      "aka": [],
+      "parents": [],
+      "children": [],
+      "spouses": [
+        "p0148"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {
+        "D/O": "Magdhu Joo Bhat",
+        "marriage_order": 2,
+        "context": "Spouse of Shyam Lal Misri"
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0151": {
+      "id": "p0151",
+      "name": "Kantayani",
+      "gender": "F",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0148"
+      ],
+      "children": [],
+      "spouses": [
+        "p0152"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {
+        "children_count": {
+          "sons": 3,
+          "daughters": 2
+        }
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0152": {
+      "id": "p0152",
+      "name": "T. N. Warikoo",
+      "gender": "",
+      "confidence": "high",
+      "aka": [],
+      "parents": [],
+      "children": [],
+      "spouses": [
+        "p0151"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {
+        "context": "Spouse of Kantayani"
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0153": {
+      "id": "p0153",
+      "name": "Pushkar Nath",
+      "gender": "M",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0148"
+      ],
+      "children": [],
+      "spouses": [],
+      "notes": [
+        "Handwritten descendant notes near this branch are difficult to read. Possible names include Durga/Raja and Shale ji, but relationship is not safe to encode."
+      ],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0154": {
+      "id": "p0154",
+      "name": "Soom Nath",
+      "gender": "M",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0148"
+      ],
+      "children": [
+        "p0156",
+        "p0158",
+        "p0159"
+      ],
+      "spouses": [
+        "p0155"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0155": {
+      "id": "p0155",
+      "name": "Bebi",
+      "gender": "",
+      "confidence": "high",
+      "aka": [],
+      "parents": [],
+      "children": [],
+      "spouses": [
+        "p0154"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {
+        "D/O": "Mahadev Kaul",
+        "context": "Spouse of Soom Nath"
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0156": {
+      "id": "p0156",
+      "name": "Kanwal",
+      "gender": "M",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0154"
+      ],
+      "children": [],
+      "spouses": [
+        "p0157"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0157": {
+      "id": "p0157",
+      "name": "Karan",
+      "gender": "",
+      "confidence": "low",
+      "aka": [],
+      "parents": [],
+      "children": [],
+      "spouses": [
+        "p0156"
+      ],
+      "notes": [
+        "Handwritten note says married in England."
+      ],
+      "sourceImages": [],
+      "details": {
+        "context": "Spouse of Kanwal"
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0158": {
+      "id": "p0158",
+      "name": "Ravi",
+      "gender": "M",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0154"
+      ],
+      "children": [],
+      "spouses": [],
+      "notes": [
+        "Handwritten note says married."
+      ],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0159": {
+      "id": "p0159",
+      "name": "Rama",
+      "gender": "F",
+      "confidence": "medium",
+      "aka": [],
+      "parents": [
+        "p0154"
+      ],
+      "children": [],
+      "spouses": [],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0160": {
+      "id": "p0160",
+      "name": "Harday Nath",
+      "gender": "M",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0148"
+      ],
+      "children": [
+        "p0162",
+        "p0168",
+        "p0170"
+      ],
+      "spouses": [
+        "p0161"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0161": {
+      "id": "p0161",
+      "name": "Roopa",
+      "gender": "",
+      "confidence": "high",
+      "aka": [],
+      "parents": [],
+      "children": [],
+      "spouses": [
+        "p0160"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {
+        "D/O": "M. K. Tikoo",
+        "context": "Spouse of Harday Nath"
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0162": {
+      "id": "p0162",
+      "name": "Sunil",
+      "gender": "M",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0160"
+      ],
+      "children": [
+        "p0164",
+        "p0165",
+        "p0166",
+        "p0167"
+      ],
+      "spouses": [
+        "p0163"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0163": {
+      "id": "p0163",
+      "name": "Girija",
+      "gender": "",
+      "confidence": "low",
+      "aka": [],
+      "parents": [],
+      "children": [],
+      "spouses": [
+        "p0162"
+      ],
+      "notes": [
+        "Handwritten spouse name appears to be Girija. Printed line also includes D/O Kashoo."
+      ],
+      "sourceImages": [],
+      "details": {
+        "context": "Spouse of Sunil"
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0164": {
+      "id": "p0164",
+      "name": "Shriya",
+      "gender": "F",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0162"
+      ],
+      "children": [],
+      "spouses": [],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0165": {
+      "id": "p0165",
+      "name": "Sanyam",
+      "gender": "M",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0162"
+      ],
+      "children": [],
+      "spouses": [],
+      "notes": [
+        "Handwritten note may say Nitish D/O H. N. Khashu nearby."
+      ],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0166": {
+      "id": "p0166",
+      "name": "Prakriti",
+      "gender": "F",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0162"
+      ],
+      "children": [],
+      "spouses": [],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0167": {
+      "id": "p0167",
+      "name": "Apoorva",
+      "gender": "F",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0162"
+      ],
+      "children": [],
+      "spouses": [],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0168": {
+      "id": "p0168",
+      "name": "Rakesh",
+      "gender": "M",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0160"
+      ],
+      "children": [],
+      "spouses": [
+        "p0169"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0169": {
+      "id": "p0169",
+      "name": "Anju",
+      "gender": "",
+      "confidence": "medium",
+      "aka": [],
+      "parents": [],
+      "children": [],
+      "spouses": [
+        "p0168"
+      ],
+      "notes": [
+        "Handwritten spouse note also appears to say Mayju or similar."
+      ],
+      "sourceImages": [],
+      "details": {
+        "D/O": "B. J. Salman",
+        "context": "Spouse of Rakesh"
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0170": {
+      "id": "p0170",
+      "name": "Rama",
+      "gender": "F",
+      "confidence": "medium",
+      "aka": [],
+      "parents": [
+        "p0160"
+      ],
+      "children": [],
+      "spouses": [],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0171": {
+      "id": "p0171",
+      "name": "Bimla Bhat",
+      "gender": "F",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0148"
+      ],
+      "children": [
+        "p0173",
+        "p0174"
+      ],
+      "spouses": [
+        "p0172"
+      ],
+      "notes": [
+        "This branch is visually under the second-marriage line to Dhana."
+      ],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0172": {
+      "id": "p0172",
+      "name": "Bodh Raj Bhat",
+      "gender": "",
+      "confidence": "high",
+      "aka": [],
+      "parents": [],
+      "children": [],
+      "spouses": [
+        "p0171"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {
+        "context": "Spouse of Bimla Bhat"
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0173": {
+      "id": "p0173",
+      "name": "Ashu",
+      "gender": "F",
+      "confidence": "high",
+      "aka": [
+        "Gugi"
+      ],
+      "parents": [
+        "p0171"
+      ],
+      "children": [],
+      "spouses": [],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0174": {
+      "id": "p0174",
+      "name": "Rajesh",
+      "gender": "M",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0171"
+      ],
+      "children": [],
+      "spouses": [],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0175": {
+      "id": "p0175",
+      "name": "Batni Vali",
+      "gender": "F",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0001"
+      ],
+      "children": [
+        "p0177",
+        "p0179"
+      ],
+      "spouses": [
+        "p0176"
+      ],
+      "notes": [],
+      "sourceImages": [
+        "43740.jpg"
+      ],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0176": {
+      "id": "p0176",
+      "name": "Shiva ji Vali",
+      "gender": "",
+      "confidence": "high",
+      "aka": [],
+      "parents": [],
+      "children": [],
+      "spouses": [
+        "p0175"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {
+        "context": "Spouse of Batni Vali"
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0177": {
+      "id": "p0177",
+      "name": "Kashi Nath",
+      "gender": "M",
+      "confidence": "medium",
+      "aka": [],
+      "parents": [
+        "p0175"
+      ],
+      "children": [],
+      "spouses": [
+        "p0178"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {
+        "children_count": {
+          "sons": 2,
+          "daughters": 2
+        }
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0178": {
+      "id": "p0178",
+      "name": "unknown Mooza family spouse",
+      "gender": "",
+      "confidence": "medium",
+      "aka": [],
+      "parents": [],
+      "children": [],
+      "spouses": [
+        "p0177"
+      ],
+      "notes": [
+        "Written as married to Mooza's."
+      ],
+      "sourceImages": [],
+      "details": {
+        "context": "Spouse of Kashi Nath"
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0179": {
+      "id": "p0179",
+      "name": "Badri Nath",
+      "gender": "M",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0175"
+      ],
+      "children": [],
+      "spouses": [
+        "p0180"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {
+        "children_count": {
+          "sons": 2,
+          "daughters": 1
+        }
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0180": {
+      "id": "p0180",
+      "name": "unknown Kaul family spouse",
+      "gender": "",
+      "confidence": "medium",
+      "aka": [],
+      "parents": [],
+      "children": [],
+      "spouses": [
+        "p0179"
+      ],
+      "notes": [
+        "Written as married to Kaul's."
+      ],
+      "sourceImages": [],
+      "details": {
+        "context": "Spouse of Badri Nath"
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0181": {
+      "id": "p0181",
+      "name": "Tulsi Vali",
+      "gender": "M",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0001"
+      ],
+      "children": [
+        "p0183"
+      ],
+      "spouses": [
+        "p0182"
+      ],
+      "notes": [
+        "Shown under the second marriage line from Heer ji / Balau Dedi on 43740."
+      ],
+      "sourceImages": [
+        "43740.jpg"
+      ],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0182": {
+      "id": "p0182",
+      "name": "Jia Lal",
+      "gender": "",
+      "confidence": "high",
+      "aka": [],
+      "parents": [],
+      "children": [],
+      "spouses": [
+        "p0181"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {
+        "context": "Spouse of Tulsi Vali"
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0183": {
+      "id": "p0183",
+      "name": "Chaman Lal",
+      "gender": "M",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0181"
+      ],
+      "children": [],
+      "spouses": [],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0184": {
+      "id": "p0184",
+      "name": "Dina Nath Misri",
+      "gender": "M",
+      "confidence": "high",
+      "aka": [],
+      "parents": [],
+      "children": [
+        "p0186",
+        "p0192",
+        "p0196",
+        "p0200",
+        "p0204"
+      ],
+      "spouses": [
+        "p0185"
+      ],
+      "notes": [],
+      "sourceImages": [
+        "43743.jpg"
+      ],
+      "details": {
+        "relationship_to_main_tree": "Shown as its own branch on the Shyam Lal/Dina Nath page; parent connection to Shankar Joo Misri is not explicit on the dedicated sheet.",
+        "context": "Separate branch with uncertain link to main root"
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0185": {
+      "id": "p0185",
+      "name": "Roopawati",
+      "gender": "",
+      "confidence": "medium",
+      "aka": [],
+      "parents": [],
+      "children": [],
+      "spouses": [
+        "p0184"
+      ],
+      "notes": [
+        "Handwritten surname may be Katal."
+      ],
+      "sourceImages": [],
+      "details": {
+        "D/O": "Sarvanand Katal, Rainawari",
+        "context": "Spouse of Dina Nath Misri"
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0186": {
+      "id": "p0186",
+      "name": "Jaywahar Lal",
+      "gender": "M",
+      "confidence": "medium",
+      "aka": [
+        "Jawahar Lal"
+      ],
+      "parents": [
+        "p0184"
+      ],
+      "children": [
+        "p0188"
+      ],
+      "spouses": [
+        "p0187"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0187": {
+      "id": "p0187",
+      "name": "Rajni",
+      "gender": "",
+      "confidence": "high",
+      "aka": [],
+      "parents": [],
+      "children": [],
+      "spouses": [
+        "p0186"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {
+        "D/O": "Kashi Nath Razdan",
+        "context": "Spouse of Jaywahar Lal"
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0188": {
+      "id": "p0188",
+      "name": "Sanjeev",
+      "gender": "M",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0186"
+      ],
+      "children": [
+        "p0190",
+        "p0191"
+      ],
+      "spouses": [
+        "p0189"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0189": {
+      "id": "p0189",
+      "name": "Manjoo",
+      "gender": "",
+      "confidence": "low",
+      "aka": [],
+      "parents": [],
+      "children": [],
+      "spouses": [
+        "p0188"
+      ],
+      "notes": [],
+      "sourceImages": [],
+      "details": {
+        "D/O": "unknown",
+        "context": "Spouse of Sanjeev"
+      },
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0190": {
+      "id": "p0190",
+      "name": "Dhamodar",
+      "gender": "F",
+      "confidence": "low",
+      "aka": [],
+      "parents": [
+        "p0188"
+      ],
+      "children": [],
+      "spouses": [],
+      "notes": [
+        "Marked with D on the sheet, but name/gender pairing is unusual and may be misread."
+      ],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0191": {
+      "id": "p0191",
+      "name": "Sahil",
+      "gender": "M",
+      "confidence": "high",
+      "aka": [],
+      "parents": [
+        "p0188"
+      ],
+      "children": [],
+      "spouses": [],
+      "notes": [],
+      "sourceImages": [],
+      "details": {},
+      "photo": "",
+      "gallery": [],
+      "events": [],
+      "custom": {}
+    },
+    "p0192": {
+      "id": "p0192",
+      "name": "Ashok",
+      "gender": "M",
+      "confidence": "high",
+      "aka": [],
       "parents": [
         "p0184"
       ],
