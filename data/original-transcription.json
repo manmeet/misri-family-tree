@@ -1,0 +1,1350 @@
+Total output lines: 1713
+
+{
+  "title": "Misri Family Tree",
+  "format": "JSON",
+  "compiled_from_original_images": [
+    {
+      "image": "43740.jpg",
+      "description": "Master overview centered on Shankar Joo Misri"
+    },
+    {
+      "image": "43741.jpg",
+      "description": "Dhamodar Misri page 1 and Sad Lakshmi daughters"
+    },
+    {
+      "image": "43742.jpg",
+      "description": "Sad Lakshmi W/O Dhamodar Misri sons"
+    },
+    {
+      "image": "43743.jpg",
+      "description": "Shyam Lal Misri and Dina Nath Misri branches"
+    },
+    {
+      "image": "43744.jpg",
+      "description": "Jagar Nath Misri and Gobind Joo Misri branches"
+    },
+    {
+      "image": "43745.jpg",
+      "description": "Second copy of Jagar Nath Misri and Gobind Joo Misri branches"
+    },
+    {
+      "image": "43746.jpg",
+      "description": "Madsudan Misri branch"
+    },
+    {
+      "image": "43747.jpg",
+      "description": "Handwritten ancestry overview, left and middle"
+    },
+    {
+      "image": "43748.jpg",
+      "description": "Handwritten ancestry overview, middle and right"
+    },
+    {
+      "image": "43749.jpg",
+      "description": "Handwritten ancestry overview, alternate angle"
+    }
+  ],
+  "confidence_scale": {
+    "high": "Clearly printed or confirmed by another sheet",
+    "medium": "Readable, but the line placement or exact relationship has some ambiguity",
+    "low": "Handwritten, crossed out, cut off, or relationship line is hard to follow"
+  },
+  "abbreviations": {
+    "S": "son",
+    "D": "daughter",
+    "W/O": "wife of",
+    "H/O": "husband of",
+    "D/O": "daughter of",
+    "S/O": "son of"
+  },
+  "transcription_policy": [
+    "I preserved the spelling as written where it was readable.",
+    "I used question marks only inside notes or confidence fields, not as invented family members.",
+    "Where the source gives only a count, the JSON stores a count instead of fabricating names.",
+    "Where the sheet placement is unclear, the record is retained with confidence low and a note."
+  ],
+  "early_ancestry_notes": {
+    "source_images": [
+      "43747.jpg",
+      "43748.jpg",
+      "43749.jpg"
+    ],
+    "location_as_written": [
+      {
+        "text": "Misri's Zaindar Mohalla, Habakadal, Srinagar, Kashmir, House No. 7",
+        "confidence": "medium"
+      },
+      {
+        "text": "Regni Devi / Ishta Devi, Tul-e-mulla, Srinagar, Kashmir",
+        "confidence": "low",
+        "notes": "The handwritten name is difficult to read. It appears as Regni Devi in one line and Ishta Devi in another."
+      },
+      {
+        "text": "Bharya Karan Nagar",
+        "confidence": "medium"
+      },
+      {
+        "text": "Gotar Path Somni Kosheal",
+        "confidence": "medium"
+      }
+    ],
+    "lineage_as_written": [
+      {
+        "name": "Kawal Misri",
+        "confidence": "medium"
+      },
+      {
+        "name": "Mahanand Joo Misri",
+        "confidence": "medium"
+      }
+    ],
+    "branches_as_written": [
+      {
+        "name": "Sathram Misri",
+        "gender": "M",
+        "spouses": [
+          {
+            "name": "Zachi Rehi",
+            "confidence": "medium"
+          }
+        ],
+        "children": [
+          {
+            "name": "Shankar Joo Misri",
+            "gender": "M",
+            "confidence": "high",
+            "notes": "This is the same Shankar Joo Misri used as the root of the printed master overview."
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "name": "Vasdev",
+        "gender": "M",
+        "confidence": "medium",
+        "notes": "Written as adopted by Amar Chand."
+      },
+      {
+        "name": "Ram Joo Misri",
+        "gender": "M",
+        "children": [
+          {
+            "name": "Prem Nath",
+            "gender": "M",
+            "confidence": "medium",
+            "notes": "The handwritten notes below Prem Nath include multiple spouses or branches, but the details are not fully legible."
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "name": "Narayan Joo",
+        "gender": "M",
+        "children": [
+          {
+            "name": "Jia Lal",
+            "gender": "M",
+            "confidence": "medium",
+            "notes": "Branch includes names such as Rugnath, Badri Nath, Tulsi Nath, Sushila, Ravender, Satish, Umesh, and Chuni, but exact relationships are partially unclear."
+          }
+        ],
+        "confidence": "low"
+      },
+      {
+        "name": "Smart Chand",
+        "gender": "M",
+        "children": [
+          {
+            "name": "Jia Lal",
+            "gender": "M",
+            "confidence": "low",
+            "notes": "Spouse appears to be Tilaki or similar. Also mentions Chuni plus 2."
+          }
+        ],
+        "confidence": "low"
+      },
+      {
+        "name": "Sunder Dizo",
+        "gender": "M",
+        "confidence": "low",
+        "notes": "Name and spelling unclear."
+      },
+      {
+        "name": "Amar Chand",
+        "gender": "M",
+        "children": [
+          {
+            "name": "Balak Ram",
+            "gender": "M",
+            "children": [
+              {
+                "name": "Vasdev",
+                "gender": "M",
+                "relationship_note": "adopted son",
+                "children": [
+                  {
+                    "name": "Gobind Joo",
+                    "gender": "M",
+                    "relationship_note": "adopted son",
+                    "confidence": "medium"
+                  }
+                ],
+                "confidence": "medium"
+              }
+            ],
+            "confidence": "medium"
+          },
+          {
+            "name": "Gunari / Gunar Dedi Peer",
+            "gender": "F",
+            "spouses": [
+              {
+                "name": "Sri Kanth Peer",
+                "confidence": "medium"
+              }
+            ],
+            "confidence": "medium"
+          }
+        ],
+        "confidence": "medium"
+      }
+    ]
+  },
+  "main_tree": {
+    "name": "Shankar Joo Misri",
+    "gender": "M",
+    "confidence": "high",
+    "source_images": [
+      "43740.jpg",
+      "43747.jpg",
+      "43748.jpg"
+    ],
+    "spouses": [
+      {
+        "name": "Bedni Tezi",
+        "marriage_order": 1,
+        "confidence": "medium",
+        "source_images": [
+          "43740.jpg"
+        ]
+      },
+      {
+        "name": "Heer ji / Balau Dedi",
+        "marriage_order": 2,
+        "confidence": "medium",
+        "source_images": [
+          "43740.jpg"
+        ]
+      }
+    ],
+    "notes": [
+      "43740 marks first marriage as Bedni Tezi and second marriage as Heer. The exact mother for every child is not fully explicit, but the printed layout places Sonamali through Batni under the first-marriage line and Tulsi Vali under the second-marriage line."
+    ],
+    "children": [
+      {
+        "name": "Sonamali Dhar",
+        "gender": "F",
+        "confidence": "high",
+        "source_images": [
+          "43740.jpg"
+        ],
+        "spouses": [
+          {
+            "name": "Ramjoo Dhar",
+            "confidence": "high"
+          }
+        ],
+        "children": [
+          {
+            "name": "Janki Nath",
+            "gender": "M",
+            "confidence": "high",
+            "spouses": [
+              {
+                "name": "Dhanwati",
+                "confidence": "high"
+              }
+            ],
+            "children_count": {
+              "sons": 4
+            }
+          },
+          {
+            "name": "Sati Dedi",
+            "gender": "F",
+            "confidence": "high",
+            "spouses": [
+              {
+                "name": "Jia Lal Kachroo",
+                "confidence": "high"
+              }
+            ],
+            "children_count": {
+              "sons": 3,
+              "daughters": 3
+            }
+          }
+        ]
+      },
+      {
+        "name": "Dhamodar Misri",
+        "gender": "M",
+        "confidence": "high",
+        "source_images": [
+          "43740.jpg",
+          "43741.jpg",
+          "43742.jpg"
+        ],
+        "branch": {
+          "spouses_or_partner_lines": [
+            {
+              "name": "Janki",
+              "surname_or_note": "Dhar's / Tiku, unclear",
+              "confidence": "low",
+              "children": [
+                {
+                  "name": "Prithvi Nath",
+                  "gender": "M",
+                  "confidence": "medium",
+                  "spouses": [
+                    {
+                      "name": "Gunwato Raina",
+                      "daughter_of": "Gobind Joo",
+                      "confidence": "medium"
+                    }
+                  ],
+                  "children": [
+                    {
+                      "name": "Mohni Ganju",
+                      "gender": "F",
+                      "confidence": "medium",
+                      "spouses": [
+                        {
+                          "name": "Som Nath Ganju",
+                          "confidence": "medium"
+                        }
+                      ],
+                      "children": [
+                        {
+                          "name": "Anil",
+                          "gender": "M",
+                          "confidence": "medium"
+                        },
+                        {
+                          "name": "unnamed daughter",
+                          "gender": "F",
+                          "confidence": "medium"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Avtar Krishan",
+                      "gender": "M",
+                      "confidence": "high",
+                      "spouses": [
+                        {
+                          "name": "Shama Ji",
+                          "daughter_of": "Gopinath Ganju",
+                          "confidence": "high"
+                        }
+                      ],
+                      "children": [
+                        {
+                          "name": "Ajay",
+                          "gender": "M",
+                          "confidence": "high",
+                          "spouses": [
+                            {
+                              "name": "Bhavna",
+                              "daughter_of": "Maharaj Krishan Kaul",
+                              "confidence": "high"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Amit",
+                          "gender": "M",
+                          "confidence": "high",
+                          "notes": "Handwritten note says single."
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Moti Lal",
+                      "gender": "M",
+                      "confidence": "high",
+                      "spouses": [
+                        {
+                          "name": "Sarla",
+                          "daughter_of": "Wampoori's",
+                          "confidence": "medium"
+                        }
+                      ],
+                      "children": [
+                        {
+                          "name": "Rajesh",
+                          "gender": "M",
+                          "confidence": "high"
+                        },
+                        {
+                          "name": "Monika",
+                          "gender": "F",
+                          "aka": [
+                            "Happy"
+                          ],
+                          "confidence": "high"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Ravider",
+                      "gender": "M",
+                      "confidence": "low",
+                      "spouses": [
+                        {
+                          "name": "Kaki",
+                          "confidence": "low"
+                        }
+                      ],
+                      "children": [
+                        {
+                          "name": "Reshma",
+                          "gender": "F",
+                          "confidence": "medium"
+                        }
+                      ],
+                      "notes": "The exact reading and relationship of Ravider/Kaki is difficult to follow on 43741."
+                    },
+                    {
+                      "name": "Krishna Kak",
+                      "gender": "F",
+                      "confidence": "high",
+                      "spouses": [
+                        {
+                          "name": "Maharaj Krishan Kak",
+                          "confidence": "high"
+                        }
+                      ],
+                      "children": [
+                        {
+                          "name": "Sonu",
+                          "gender": "M",
+                          "confidence": "high"
+                        },
+                        {
+                          "name": "Ruchi",
+                          "gender": "F",
+                          "confidence": "high"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sad Lakshmi",
+              "gender": "F",
+              "daughter_of": "Sudarshan Kaul, Alikadal",
+              "relationship_to_dhamodar": "wife",
+              "confidence": "high",
+              "children": [
+                {
+                  "name": "Pridham Krishan",
+                  "gender": "M",
+                  "confidence": "medium",
+                  "spouses": [
+                    {
+                      "name": "Ratna",
+                      "daughter_of": "Jagar Nath Kaul",
+                      "confidence": "high"
+                    }
+                  ],
+                  "children": [
+                    {
+                      "name": "Rahul",
+                      "gender": "M",
+                      "confidence": "high",
+                      "spouses": [
+                        {
+                          "name": "Sonia",
+                          "daughter_of": "Kaul",
+                          "confidence": "medium"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Mohan Lal",
+                  "gender": "M",
+                  "confidence": "high",
+                  "spouses": [
+                    {
+                      "name": "Shata",
+                      "daughter_of": "Amar Nath Kaul",
+                      "confidence": "high"
+                    }
+                  ],
+                  "children": [
+                    {
+                      "name": "Virender",
+                      "gender": "M",
+                      "confidence": "high",
+                      "spouses": [
+                        {
+                          "name": "Nija",
+                          "daughter_of": "Rajnath Ambardar",
+                          "confidence": "high"
+                        }
+                      ],
+                      "children": [
+                        {
+                          "name": "Arpit",
+                          "gender": "M",
+                          "confidence": "high"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Jyotsna Mam",
+                      "gender": "F",
+                      "confidence": "medium",
+                      "spouses": [
+                        {
+                          "name": "Ashok Mam",
+                          "confidence": "high"
+                        }
+                      ],
+                      "children": [
+                        {
+                          "name": "Choti",
+                          "gender": "F",
+                          "confidence": "medium"
+                        },
+                        {
+                          "name": "Chutki",
+                          "gender": "F",
+                          "confidence": "medium"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Rakesh",
+                      "gender": "M",
+                      "confidence": "high",
+                      "spouses": [
+                        {
+                          "name": "Nimmi",
+                          "daughter_of": "Niranjan Nath Razdan",
+                          "confidence": "high"
+                        }
+                      ],
+                      "children": [
+                        {
+                          "name": "Savita",
+                          "gender": "F",
+                          "confidence": "high"
+                        },
+                        {
+                          "name": "Gaurav",
+                          "gender": "M",
+                          "confidence": "high"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Shiban Lal",
+                      "gender": "M",
+                      "confidence": "high"
+                    },
+                    {
+                      "name": "Susheela",
+                      "gender": "F",
+                      "daughter_of": "Shiv Nath Bakshi",
+                      "confidence": "high",
+                      "children_or_relations": [
+                        {
+                          "name": "Arun",
+                          "gender": "M",
+                          "confidence": "high",
+                          "spouses": [
+                            {
+                              "name": "Anisha",
+                              "daughter_of": "S. N. Razdan",
+                              "confidence": "medium"
+                            }
+                          ],
+                          "children": [
+                            {
+                              "name": "Ayushi",
+                              "gender": "F",
+                              "confidence": "high"
+                            },
+                            {
+                              "name": "Archita",
+                              "gender": "F",
+                              "confidence": "high"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Puripriya",
+                          "gender": "F",
+                          "confidence": "low",
+                          "spouses": [
+                            {
+                              "name": "Bala",
+                              "son_of": "V. Gopalakrishnan",
+                              "confidence": "medium"
+                            }
+                          ],
+                          "notes": "Printed under Susheela; exact connection is visible but the name spelling is uncertain."
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Phoola",
+                      "gender": "F",
+                      "daughter_of": "Jia Lal Khebri",
+                      "confidence": "medium",
+                      "children": [
+                        {
+                          "name": "Anupama",
+                          "gender": "F",
+                          "confidence": "high"
+                        },
+                        {
+                          "name": "Ashish",
+                          "gender": "M",
+                          "confidence": "high"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Shamboo Nath",
+                  "gender": "M",
+                  "confidence": "medium",
+                  "relationship_note…2939 tokens truncated…            },
+              {
+                "name": "Omkar Nath",
+                "gender": "M",
+                "confidence": "high"
+              },
+              {
+                "name": "Dulari Kachru",
+                "gender": "F",
+                "confidence": "high"
+              }
+            ]
+          },
+          {
+            "name": "Mugal Dedi Suproo",
+            "gender": "F",
+            "confidence": "high",
+            "spouses": [
+              {
+                "name": "Janki Nath Saproo",
+                "confidence": "high"
+              }
+            ],
+            "children": [
+              {
+                "name": "unnamed daughters",
+                "gender": "F",
+                "count": 3,
+                "confidence": "medium"
+              }
+            ],
+            "notes": "Printed count looks like 2 daughters, handwritten correction marks 3 daughters."
+          },
+          {
+            "name": "Prabha Devi Dhar",
+            "gender": "F",
+            "confidence": "high",
+            "spouses": [
+              {
+                "name": "Kanya Lal Dhar",
+                "confidence": "high"
+              }
+            ],
+            "children_count": {
+              "sons": 3,
+              "daughters": 3
+            }
+          }
+        ]
+      },
+      {
+        "name": "Gobind Joo Misri",
+        "gender": "M",
+        "confidence": "high",
+        "source_images": [
+          "43740.jpg",
+          "43744.jpg",
+          "43745.jpg"
+        ],
+        "notes": [
+          "43740 says adopted to Vasunav or a similar name. 43744/43745 give the detailed branch."
+        ],
+        "spouses": [
+          {
+            "name": "Soup Kuji",
+            "daughter_of": "Neel Kanth Dhar",
+            "confidence": "medium",
+            "notes": "Handwritten note may say Kreani."
+          }
+        ],
+        "children": [
+          {
+            "name": "Zala ji Lala",
+            "gender": "F",
+            "confidence": "medium",
+            "spouses": [
+              {
+                "name": "Chunni Lal Lala",
+                "confidence": "high"
+              }
+            ],
+            "children": [
+              {
+                "name": "Tosha Teng",
+                "gender": "F",
+                "confidence": "high",
+                "spouses": [
+                  {
+                    "name": "Tribhuwan Teng",
+                    "confidence": "high"
+                  }
+                ],
+                "children": [
+                  {
+                    "name": "unnamed daughters",
+                    "gender": "F",
+                    "count": 3,
+                    "confidence": "high"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Triloki Nath",
+            "gender": "M",
+            "confidence": "high",
+            "spouses": [
+              {
+                "name": "Kamla",
+                "daughter_of": "Kashi Nath Kachroo",
+                "confidence": "high"
+              }
+            ],
+            "children": [
+              {
+                "name": "Vinay",
+                "gender": "M",
+                "confidence": "high",
+                "spouses": [
+                  {
+                    "name": "Veena ji",
+                    "daughter_of": "M. L. Wali",
+                    "confidence": "high"
+                  }
+                ],
+                "children": [
+                  {
+                    "name": "Vasundra",
+                    "gender": "F",
+                    "confidence": "high"
+                  },
+                  {
+                    "name": "Vandana",
+                    "gender": "F",
+                    "confidence": "high"
+                  }
+                ]
+              },
+              {
+                "name": "Nancy",
+                "gender": "F",
+                "confidence": "high",
+                "spouses": [
+                  {
+                    "name": "Dr. Opender",
+                    "confidence": "low",
+                    "notes": "Surname unreadable"
+                  }
+                ],
+                "children_count": {
+                  "sons": 1,
+                  "daughters": 1
+                },
+                "notes": "Spouse surname and the exact child names are handwritten and unclear."
+              },
+              {
+                "name": "Lalit",
+                "gender": "M",
+                "confidence": "high",
+                "spouses": [
+                  {
+                    "name": "Yogni",
+                    "daughter_of": "Y. K. Bhan",
+                    "confidence": "medium"
+                  }
+                ],
+                "children": [
+                  {
+                    "name": "Vedhanth",
+                    "gender": "M",
+                    "confidence": "high"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Shyam Lal Misri",
+        "gender": "M",
+        "aka": [
+          "Shayam Lal Misri"
+        ],
+        "confidence": "high",
+        "source_images": [
+          "43740.jpg",
+          "43743.jpg"
+        ],
+        "spouses": [
+          {
+            "name": "Mogli",
+            "aka": [
+              "Raj Rani"
+            ],
+            "daughter_of": "Reshi Sahib",
+            "marriage_order": 1,
+            "confidence": "medium"
+          },
+          {
+            "name": "Dhana",
+            "daughter_of": "Magdhu Joo Bhat",
+            "marriage_order": 2,
+            "confidence": "medium"
+          }
+        ],
+        "children": [
+          {
+            "name": "Kantayani",
+            "gender": "F",
+            "confidence": "high",
+            "spouses": [
+              {
+                "name": "T. N. Warikoo",
+                "confidence": "high"
+              }
+            ],
+            "children_count": {
+              "sons": 3,
+              "daughters": 2
+            }
+          },
+          {
+            "name": "Pushkar Nath",
+            "gender": "M",
+            "confidence": "high",
+            "notes": "Handwritten descendant notes near this branch are difficult to read. Possible names include Durga/Raja and Shale ji, but relationship is not safe to encode."
+          },
+          {
+            "name": "Soom Nath",
+            "gender": "M",
+            "confidence": "high",
+            "spouses": [
+              {
+                "name": "Bebi",
+                "daughter_of": "Mahadev Kaul",
+                "confidence": "high"
+              }
+            ],
+            "children": [
+              {
+                "name": "Kanwal",
+                "gender": "M",
+                "confidence": "high",
+                "spouses": [
+                  {
+                    "name": "Karan",
+                    "confidence": "low",
+                    "notes": "Handwritten note says married in England."
+                  }
+                ]
+              },
+              {
+                "name": "Ravi",
+                "gender": "M",
+                "confidence": "high",
+                "notes": "Handwritten note says married."
+              },
+              {
+                "name": "Rama",
+                "gender": "F",
+                "confidence": "medium"
+              }
+            ]
+          },
+          {
+            "name": "Harday Nath",
+            "gender": "M",
+            "confidence": "high",
+            "spouses": [
+              {
+                "name": "Roopa",
+                "daughter_of": "M. K. Tikoo",
+                "confidence": "high"
+              }
+            ],
+            "children": [
+              {
+                "name": "Sunil",
+                "gender": "M",
+                "confidence": "high",
+                "spouses": [
+                  {
+                    "name": "Girija",
+                    "confidence": "low",
+                    "notes": "Handwritten spouse name appears to be Girija. Printed line also includes D/O Kashoo."
+                  }
+                ],
+                "children": [
+                  {
+                    "name": "Shriya",
+                    "gender": "F",
+                    "confidence": "high"
+                  },
+                  {
+                    "name": "Sanyam",
+                    "gender": "M",
+                    "confidence": "high",
+                    "notes": "Handwritten note may say Nitish D/O H. N. Khashu nearby."
+                  },
+                  {
+                    "name": "Prakriti",
+                    "gender": "F",
+                    "confidence": "high"
+                  },
+                  {
+                    "name": "Apoorva",
+                    "gender": "F",
+                    "confidence": "high"
+                  }
+                ]
+              },
+              {
+                "name": "Rakesh",
+                "gender": "M",
+                "confidence": "high",
+                "spouses": [
+                  {
+                    "name": "Anju",
+                    "daughter_of": "B. J. Salman",
+                    "confidence": "medium",
+                    "notes": "Handwritten spouse note also appears to say Mayju or similar."
+                  }
+                ]
+              },
+              {
+                "name": "Rama",
+                "gender": "F",
+                "confidence": "medium"
+              }
+            ]
+          },
+          {
+            "name": "Bimla Bhat",
+            "gender": "F",
+            "confidence": "high",
+            "spouses": [
+              {
+                "name": "Bodh Raj Bhat",
+                "confidence": "high"
+              }
+            ],
+            "children": [
+              {
+                "name": "Ashu",
+                "gender": "F",
+                "aka": [
+                  "Gugi"
+                ],
+                "confidence": "high"
+              },
+              {
+                "name": "Rajesh",
+                "gender": "M",
+                "confidence": "high"
+              }
+            ],
+            "notes": "This branch is visually under the second-marriage line to Dhana."
+          }
+        ],
+        "additional_handwritten_entries": [
+          {
+            "text": "Mukka or Mukta, Modushtali or similar, and Roma Moza are written near the left side of the Shyam Lal page.",
+            "confidence": "low",
+            "notes": "The parent line and spellings are not clear enough to encode as children."
+          }
+        ]
+      },
+      {
+        "name": "Batni Vali",
+        "gender": "F",
+        "confidence": "high",
+        "source_images": [
+          "43740.jpg"
+        ],
+        "spouses": [
+          {
+            "name": "Shiva ji Vali",
+            "confidence": "high"
+          }
+        ],
+        "children": [
+          {
+            "name": "Kashi Nath",
+            "gender": "M",
+            "confidence": "medium",
+            "spouses": [
+              {
+                "name": "unknown Mooza family spouse",
+                "confidence": "medium",
+                "notes": "Written as married to Mooza's."
+              }
+            ],
+            "children_count": {
+              "sons": 2,
+              "daughters": 2
+            }
+          },
+          {
+            "name": "Badri Nath",
+            "gender": "M",
+            "confidence": "high",
+            "spouses": [
+              {
+                "name": "unknown Kaul family spouse",
+                "confidence": "medium",
+                "notes": "Written as married to Kaul's."
+              }
+            ],
+            "children_count": {
+              "sons": 2,
+              "daughters": 1
+            }
+          }
+        ]
+      },
+      {
+        "name": "Tulsi Vali",
+        "gender": "M",
+        "confidence": "high",
+        "source_images": [
+          "43740.jpg"
+        ],
+        "spouses": [
+          {
+            "name": "Jia Lal",
+            "confidence": "high"
+          }
+        ],
+        "children": [
+          {
+            "name": "Chaman Lal",
+            "gender": "M",
+            "confidence": "high"
+          }
+        ],
+        "notes": "Shown under the second marriage line from Heer ji / Balau Dedi on 43740."
+      }
+    ]
+  },
+  "separate_branches_with_unclear_link_to_main_root": [
+    {
+      "name": "Dina Nath Misri",
+      "gender": "M",
+      "confidence": "high",
+      "source_images": [
+        "43743.jpg"
+      ],
+      "relationship_to_main_tree": "Shown as its own branch on the Shyam Lal/Dina Nath page; parent connection to Shankar Joo Misri is not explicit on the dedicated sheet.",
+      "spouses": [
+        {
+          "name": "Roopawati",
+          "daughter_of": "Sarvanand Katal, Rainawari",
+          "confidence": "medium",
+          "notes": "Handwritten surname may be Katal."
+        }
+      ],
+      "children": [
+        {
+          "name": "Jaywahar Lal",
+          "gender": "M",
+          "aka": [
+            "Jawahar Lal"
+          ],
+          "confidence": "medium",
+          "spouses": [
+            {
+              "name": "Rajni",
+              "daughter_of": "Kashi Nath Razdan",
+              "confidence": "high"
+            }
+          ],
+          "children": [
+            {
+              "name": "Sanjeev",
+              "gender": "M",
+              "confidence": "high",
+              "spouses": [
+                {
+                  "name": "Manjoo",
+                  "daughter_of": "unknown",
+                  "confidence": "low"
+                }
+              ],
+              "children": [
+                {
+                  "name": "Dhamodar",
+                  "gender": "F",
+                  "confidence": "low",
+                  "notes": "Marked with D on the sheet, but name/gender pairing is unusual and may be misread."
+                },
+                {
+                  "name": "Sahil",
+                  "gender": "M",
+                  "confidence": "high"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ashok",
+          "gender": "M",
+          "confidence": "high",
+          "spouses": [
+            {
+              "name": "Usha",
+              "daughter_of": "Jagar Nath Jatta",
+              "confidence": "medium"
+            }
+          ],
+          "children": [
+            {
+              "name": "Renu",
+              "gender": "F",
+              "confidence": "high"
+            },
+            {
+              "name": "Ripan",
+              "gender": "M",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "name": "Bansi Lal",
+          "gender": "M",
+          "confidence": "high",
+          "spouses": [
+            {
+              "name": "Sheela",
+              "daughter_of": "Arzan Nath",
+              "confidence": "high"
+            }
+          ],
+          "children": [
+            {
+              "name": "Romi",
+              "gender": "M",
+              "confidence": "high"
+            },
+            {
+              "name": "Rajesh",
+              "gender": "M",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "name": "Jatender",
+          "gender": "M",
+          "confidence": "high",
+          "spouses": [
+            {
+              "name": "Sarla",
+              "daughter_of": "Prem Nath Jalali",
+              "confidence": "high"
+            }
+          ],
+          "children": [
+            {
+              "name": "Aparna",
+              "gender": "F",
+              "confidence": "high"
+            },
+            {
+              "name": "Suparna",
+              "gender": "F",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "name": "Petti",
+          "gender": "F",
+          "confidence": "medium",
+          "spouses": [
+            {
+              "name": "Manohar Krishen Kher",
+              "confidence": "high"
+            }
+          ],
+          "children": [
+            {
+              "name": "Sanjay",
+              "gender": "M",
+              "confidence": "high"
+            },
+            {
+              "name": "Jyoti",
+              "gender": "F",
+              "confidence": "high",
+              "spouses": [
+                {
+                  "name": "Mr. Jain",
+                  "confidence": "high"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Madsudan Misri",
+      "gender": "M",
+      "confidence": "high",
+      "source_images": [
+        "43746.jpg"
+      ],
+      "relationship_to_main_tree": "Appears as its own printed branch. The parent connection is not printed on 43746 and is not safe to infer from the master overview.",
+      "spouses": [
+        {
+          "name": "Durga Kak",
+          "daughter_of": "Shambu Nath Kak",
+          "confidence": "high"
+        }
+      ],
+      "children": [
+        {
+          "name": "Nirmala",
+          "gender": "F",
+          "confidence": "high",
+          "spouses": [
+            {
+              "name": "Jeevan Kaul",
+              "confidence": "medium",
+              "notes": "Father in law written as Lassa Kaul."
+            }
+          ],
+          "children": [
+            {
+              "name": "Rama / Raju",
+              "gender": "M",
+              "confidence": "low",
+              "notes": "Printed as Rama; handwriting may say Raju."
+            },
+            {
+              "name": "Gudiya",
+              "gender": "F",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "name": "Asha",
+          "gender": "F",
+          "confidence": "high",
+          "spouses": [
+            {
+              "name": "Dr. Keerti Kaul",
+              "confidence": "high"
+            }
+          ],
+          "children": [
+            {
+              "name": "Gudia",
+              "gender": "F",
+              "confidence": "medium"
+            },
+            {
+              "name": "Chidia / Ichidia",
+              "gender": "F",
+              "confidence": "low"
+            }
+          ]
+        },
+        {
+          "name": "Anil",
+          "gender": "M",
+          "confidence": "high",
+          "spouses": [
+            {
+              "name": "Sunita Krandoo",
+              "daughter_of": "Krandoo's",
+              "confidence": "medium"
+            }
+          ],
+          "children": [
+            {
+              "name": "Shikha",
+              "gender": "F",
+              "aka": [
+                "Bulbul"
+              ],
+              "confidence": "medium"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "known_uncertain_or_ambiguous_items": [
+    {
+      "item": "Some early ancestry lines from the handwritten pages",
+      "reason": "Multiple names are cut off or hard to read. I kept them in early_ancestry_notes rather than forcing exact parent-child links."
+    },
+    {
+      "item": "Dhamodar Misri first partner line",
+      "reason": "The Janki, Prithvi Nath, Gunwato Raina, and Koul's of Chhabal relationships are readable but the exact spouse/parent line is visually ambiguous."
+    },
+    {
+      "item": "Jagar Nath Misri, GuruBatni sub-branch",
+      "reason": "Sheila ji / Bibi Lala, Dawarka Nath Lal, and Bal Krishen Kaul are written close together with crossed lines."
+    },
+    {
+      "item": "Gobind Joo Misri, Nancy branch",
+      "reason": "Nancy's spouse surname and child names are not legible, only one son and one daughter are indicated."
+    },
+    {
+      "item": "Dina Nath Misri and Madsudan Misri",
+      "reason": "Dedicated sheets give their descendants clearly, but not their exact parent connection to the Shankar Joo master tree."
+    },
+    {
+      "item": "Shyam Lal Misri extra handwritten names",
+      "reason": "Several handwritten names are present on the left side but not reliably tied to a printed branch."
+    }
+  ]
+}
