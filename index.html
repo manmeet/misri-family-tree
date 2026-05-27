@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Misri Family Tree</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <div class="title">Misri Family Tree</div>
+      <div class="subtitle">Interactive family tree, editable in the browser</div>
+    </div>
+    <div class="actions">
+      <button id="btnFit" title="Fit tree to screen">Fit</button>
+      <button id="btnExpand">Expand all</button>
+      <button id="btnCollapse">Collapse all</button>
+      <button id="btnAddRoot">Add person</button>
+      <button id="btnPrint">Print</button>
+      <button id="btnExport">Export JSON</button>
+      <label class="file-button">
+        Import JSON
+        <input id="importFile" type="file" accept="application/json,.json">
+      </label>
+      <button id="btnReset" class="danger-lite">Reset local edits</button>
+    </div>
+  </header>
+
+  <main class="app-shell">
+    <aside class="left-panel">
+      <section class="panel-section">
+        <label class="label" for="branchSelect">Branch</label>
+        <select id="branchSelect"></select>
+      </section>
+
+      <section class="panel-section">
+        <label class="label" for="searchBox">Search people</label>
+        <input id="searchBox" type="search" placeholder="Name, note, spouse, source">
+        <div id="searchResults" class="search-results"></div>
+      </section>
+
+      <section class="panel-section compact">
+        <div class="status-row">
+          <span>People</span>
+          <strong id="peopleCount">0</strong>
+        </div>
+        <div class="status-row">
+          <span>Saved</span>
+          <strong id="savedStatus">local</strong>
+        </div>
+      </section>
+
+      <section class="panel-section">
+        <button id="btnShowNotes" class="full">Show source notes</button>
+        <button id="btnShowJson" class="full secondary">View current JSON</button>
+      </section>
+
+      <section class="panel-section help">
+        <strong>How to use</strong>
+        <p>Click a person to open details. Use the plus/minus dot to expand or collapse. Drag the canvas to pan, scroll to zoom.</p>
+        <p>Edits save in this browser. Use Export JSON to share updates back with the family maintainer.</p>
+      </section>
+    </aside>
+
+    <section class="tree-panel">
+      <svg id="treeSvg" class="tree-svg" aria-label="Interactive family tree" role="img">
+        <g id="viewport"></g>
+      </svg>
+    </section>
+
+    <aside id="detailPanel" class="detail-panel">
+      <div class="empty-detail">
+        <h2>Select a person</h2>
+        <p>Choose a node from the tree or search results to view and edit details.</p>
+      </div>
+    </aside>
+  </main>
+
+  <div id="personModal" class="modal hidden" role="dialog" aria-modal="true">
+    <div class="modal-card">
+      <div class="modal-header">
+        <h2 id="modalTitle">Add person</h2>
+        <button id="modalClose" class="icon-btn" aria-label="Close">×</button>
+      </div>
+      <div class="modal-body">
+        <label class="label">Name
+          <input id="modalName" type="text" placeholder="Full name">
+        </label>
+        <label class="label">Gender
+          <select id="modalGender">
+            <option value="">Unknown or not set</option>
+            <option value="M">Male</option>
+            <option value="F">Female</option>
+            <option value="X">Other</option>
+          </select>
+        </label>
+        <label class="label">Confidence
+          <select id="modalConfidence">
+            <option value="high">high</option>
+            <option value="medium" selected>medium</option>
+            <option value="low">low</option>
+          </select>
+        </label>
+        <label class="label">Notes
+          <textarea id="modalNotes" rows="4" placeholder="Optional notes"></textarea>
+        </label>
+      </div>
+      <div class="modal-footer">
+        <button id="modalCancel" class="secondary">Cancel</button>
+        <button id="modalSave">Save</button>
+      </div>
+    </div>
+  </div>
+
+  <div id="textModal" class="modal hidden" role="dialog" aria-modal="true">
+    <div class="modal-card wide">
+      <div class="modal-header">
+        <h2 id="textModalTitle">Details</h2>
+        <button id="textModalClose" class="icon-btn" aria-label="Close">×</button>
+      </div>
+      <div id="textModalBody" class="text-modal-body"></div>
+    </div>
+  </div>
+
+  <script src="data/family-data.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>
