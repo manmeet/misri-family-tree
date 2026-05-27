@@ -1,5 +1,3 @@
-Total output lines: 1713
-
 {
   "title": "Misri Family Tree",
   "format": "JSON",
@@ -628,7 +626,372 @@ Total output lines: 1713
                   "name": "Shamboo Nath",
                   "gender": "M",
                   "confidence": "medium",
-                  "relationship_note…2939 tokens truncated…            },
+                  "relationship_note": "handwritten note says adopted son",
+                  "notes": "43742 associates him with Jawahar Lal, but the exact spouse or descendant connection is crossed/unclear."
+                },
+                {
+                  "name": "Gridhari Lal",
+                  "gender": "M",
+                  "confidence": "high"
+                },
+                {
+                  "name": "Kamla Kaul",
+                  "gender": "F",
+                  "confidence": "high",
+                  "spouses": [
+                    {
+                      "name": "Jagar Nath Kaul",
+                      "confidence": "high"
+                    }
+                  ],
+                  "children": [
+                    {
+                      "name": "Jaya Ganju",
+                      "gender": "F",
+                      "confidence": "high",
+                      "spouses": [
+                        {
+                          "name": "Hira Lal Ganju",
+                          "confidence": "high"
+                        }
+                      ],
+                      "children": [
+                        {
+                          "name": "Anju",
+                          "gender": "F",
+                          "confidence": "high"
+                        },
+                        {
+                          "name": "Anil",
+                          "gender": "M",
+                          "confidence": "high"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Phoola Kual",
+                      "gender": "F",
+                      "confidence": "medium",
+                      "spouses": [
+                        {
+                          "name": "unknown",
+                          "confidence": "low"
+                        }
+                      ],
+                      "children": [
+                        {
+                          "name": "Dimpy",
+                          "gender": "F",
+                          "confidence": "high"
+                        },
+                        {
+                          "name": "Bunty",
+                          "gender": "F",
+                          "confidence": "medium"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Maharaj Krishan",
+                      "gender": "M",
+                      "confidence": "high",
+                      "spouses": [
+                        {
+                          "name": "Sushma",
+                          "confidence": "high"
+                        }
+                      ],
+                      "children": [
+                        {
+                          "name": "Naveen",
+                          "gender": "M",
+                          "confidence": "high"
+                        },
+                        {
+                          "name": "Monika",
+                          "gender": "F",
+                          "confidence": "high"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Upinder",
+                      "gender": "M",
+                      "confidence": "high",
+                      "spouses": [
+                        {
+                          "name": "Veena",
+                          "confidence": "high"
+                        }
+                      ],
+                      "children": [
+                        {
+                          "name": "Meenu",
+                          "gender": "F",
+                          "confidence": "high"
+                        },
+                        {
+                          "name": "Anju",
+                          "gender": "F",
+                          "confidence": "high"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Padmini Ganju",
+                  "gender": "F",
+                  "confidence": "high",
+                  "spouses": [
+                    {
+                      "name": "Shyam Lal Ganju",
+                      "confidence": "high"
+                    }
+                  ],
+                  "children": [
+                    {
+                      "name": "Sanjay",
+                      "gender": "M",
+                      "confidence": "high",
+                      "spouses": [
+                        {
+                          "name": "Shammi",
+                          "daughter_of": "Kakkar's",
+                          "confidence": "medium"
+                        }
+                      ],
+                      "children": [
+                        {
+                          "name": "Shivan",
+                          "gender": "F",
+                          "confidence": "high"
+                        },
+                        {
+                          "name": "Anuj",
+                          "gender": "M",
+                          "confidence": "high"
+                        },
+                        {
+                          "name": "Sonali",
+                          "gender": "F",
+                          "confidence": "high"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Reeta Kaul",
+                      "gender": "F",
+                      "confidence": "high",
+                      "spouses": [
+                        {
+                          "name": "Susheel Kaul",
+                          "confidence": "high"
+                        }
+                      ],
+                      "children": [
+                        {
+                          "name": "Jiggi",
+                          "gender": "F",
+                          "confidence": "medium"
+                        },
+                        {
+                          "name": "Rinku",
+                          "gender": "M",
+                          "confidence": "high"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Anita Teng",
+                      "gender": "F",
+                      "confidence": "high",
+                      "spouses": [
+                        {
+                          "name": "Surinder Teng",
+                          "confidence": "high"
+                        }
+                      ],
+                      "children": [
+                        {
+                          "name": "Ashoo",
+                          "gender": "M",
+                          "confidence": "high"
+                        },
+                        {
+                          "name": "Ruchi",
+                          "gender": "F",
+                          "confidence": "high"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Veena Matto",
+                      "gender": "F",
+                      "confidence": "high",
+                      "spouses": [
+                        {
+                          "name": "Munju ji Matto",
+                          "confidence": "medium"
+                        }
+                      ],
+                      "children": [
+                        {
+                          "name": "Baba",
+                          "gender": "M",
+                          "confidence": "high"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Nichi",
+                  "gender": "F",
+                  "confidence": "medium",
+                  "spouses": [
+                    {
+                      "name": "Amar Nath Raina",
+                      "aka": [
+                        "Mijoo"
+                      ],
+                      "confidence": "medium"
+                    }
+                  ],
+                  "children": [
+                    {
+                      "name": "Nancy Pandita",
+                      "gender": "F",
+                      "confidence": "high",
+                      "spouses": [
+                        {
+                          "name": "Tej Krishen Pandita",
+                          "confidence": "high"
+                        }
+                      ],
+                      "children": [
+                        {
+                          "name": "Anil",
+                          "gender": "M",
+                          "confidence": "high"
+                        },
+                        {
+                          "name": "Atul",
+                          "gender": "M",
+                          "confidence": "high"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "name": "Jagar Nath Misri",
+        "gender": "M",
+        "aka": [
+          "Tath Sahib"
+        ],
+        "confidence": "high",
+        "source_images": [
+          "43740.jpg",
+          "43744.jpg",
+          "43745.jpg"
+        ],
+        "spouses": [
+          {
+            "name": "Radha Mali",
+            "daughter_of": "Ramjoo Kachroo",
+            "confidence": "high"
+          }
+        ],
+        "children": [
+          {
+            "name": "GuruBatni",
+            "gender": "F",
+            "confidence": "high",
+            "spouses": [
+              {
+                "name": "Shambu Nath Koul",
+                "confidence": "high"
+              }
+            ],
+            "children": [
+              {
+                "name": "Sonabatni Kachru",
+                "gender": "F",
+                "confidence": "medium",
+                "spouses": [
+                  {
+                    "name": "Bal Krishen Kaul",
+                    "confidence": "low"
+                  }
+                ],
+                "notes": "Spouse label is handwritten and partly crossed."
+              }
+            ],
+            "additional_notes": [
+              "Sheila ji / Bibi Lala and Dawarka Nath Lal are written nearby. Their exact placement under this branch is unclear."
+            ]
+          },
+          {
+            "name": "Divki Sazwal",
+            "gender": "F",
+            "confidence": "high",
+            "spouses": [
+              {
+                "name": "Dina Nath Sazawal",
+                "confidence": "high"
+              }
+            ],
+            "children": [
+              {
+                "name": "Jawahar Lal",
+                "gender": "M",
+                "confidence": "high"
+              },
+              {
+                "name": "unnamed daughters",
+                "gender": "F",
+                "count": 3,
+                "confidence": "high"
+              }
+            ]
+          },
+          {
+            "name": "Shubawati Bamzai",
+            "gender": "F",
+            "confidence": "high",
+            "spouses": [
+              {
+                "name": "Prem Nath Bamzai",
+                "confidence": "high"
+              }
+            ],
+            "children": [
+              {
+                "name": "Mohan Lal",
+                "gender": "M",
+                "confidence": "high"
+              },
+              {
+                "name": "Brijlal",
+                "gender": "M",
+                "confidence": "high"
+              },
+              {
+                "name": "Ratan Lal",
+                "gender": "M",
+                "confidence": "high"
+              },
+              {
+                "name": "Pyari Lal",
+                "gender": "M",
+                "confidence": "high"
+              },
               {
                 "name": "Omkar Nath",
                 "gender": "M",
